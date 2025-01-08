@@ -10,22 +10,21 @@ Welcome to my GitHub profile! I'm a passionate web developer with experience in 
 - 📦 **Backend:** (Add technologies if applicable)  
 - 🔧 **Tools:** Git, GitHub, VS Code, Figma  
 - 🎯 **Currently Learning:** Advanced React, Backend Development  
-- 🏆 **Projects:** Chill Gamer, Car Rental System  
-
+- 🏆 **Projects:** Chill Gamer, Car Rental System , Bistro Boss Resturent
 ---
 
 ## 📈 GitHub Stats  
 
-![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakib123&show_icons=true&theme=radical)  
+![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakib-sikder&show_icons=true&theme=radical)  
 
 ---
 
 ## 📫 Connect with Me  
 
-- 🌐 **Portfolio:** [Your Portfolio Link](#)  
-- 📧 **Email:** your.email@example.com  
-- 💼 **LinkedIn:** [Your LinkedIn Profile](#)  
-- 🐦 **Twitter:** [Your Twitter Handle](#)  
+- 🌐 **Portfolio:** [www.rakibulhasan.net](#)  
+- 📧 **Email:** sikdersmail@gmail.com  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/rakibul-hasan-us/](#)  
+- 🐦 **Twitter:** [https://x.com/Rakibsikder27](#)  
 
 ---
 
